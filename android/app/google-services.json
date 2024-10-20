@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088130982020",
+    "project_id": "blogga-api-v3",
+    "storage_bucket": "blogga-api-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088130982020:android:7fe9910730fbc1b39fe2d1",
+        "android_client_info": {
+          "package_name": "com.kyawthet.blogga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088130982020-gllpr365r3k4lnm9ddahnml0eaoqufja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHIs09eqUvsbCnRxhTpZJ7KTGdbPxACs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088130982020-gllpr365r3k4lnm9ddahnml0eaoqufja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
